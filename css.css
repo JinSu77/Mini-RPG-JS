@@ -1,0 +1,23 @@
+
+#dialogue{
+
+position: absolute; 
+top: 1; 
+right: 0; 
+bottom: 60; 
+left: 0; 
+background-attachment: fixed; 
+color: black; 
+background-color: aliceblue; 
+padding: 10px;
+display: none;
+width: 490px;
+}
+body {
+    background-color: black;
+    margin: 0;
+}
+button{
+    display: flex;
+    display: none;
+}
